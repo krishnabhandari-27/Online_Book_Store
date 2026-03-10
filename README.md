@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is a ** Online Bookstore Database Management System** built using SQL.  
+This project is a **Online Bookstore Database Management System** built using SQL.  
 It demonstrates database design, table relationships, and advanced querying using joins, aggregations, filtering, grouping, and sorting.
 
 The system manages:
